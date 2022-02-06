@@ -1,5 +1,8 @@
-mendeklarasikan variable l dan s yang bertipe data integer.
-menampilkan judul program.
-melakukan input nilai sisi persegi ke dalam variable s.
-perhitungan luas dimana hasil variable s dikali dengan variable s akan dimasukkan kedalam variable l.
-menampilkan nilai dari variable l.
+meng-import library iostream untuk fungsi input dan output..
+fungsi main program.
+ mendeklarasikan variable a bertipe integer untuk menyimpan nilai bilangan.
+ melakukan input nilai bilangan ke dalam variable a.
+cek kondisi jika nilai variable a mod 2 adalah 0 atau nilai a dapat habis dibagi 2.
+memberikan informasi kalau nilai variable a tersebut adalah bilangan genap.
+kondisi jika nilai variable a mod 2 tidak 0 atau nilai a tidak dapat habis dibagi 2.
+memberikan informasi kalau nilai variable a tersebut adalah bilangan ganjil.
