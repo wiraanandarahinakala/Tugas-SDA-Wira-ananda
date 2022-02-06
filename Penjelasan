@@ -1,0 +1,5 @@
+mendeklarasikan variable l dan s yang bertipe data integer.
+menampilkan judul program.
+melakukan input nilai sisi persegi ke dalam variable s.
+perhitungan luas dimana hasil variable s dikali dengan variable s akan dimasukkan kedalam variable l.
+menampilkan nilai dari variable l.
